@@ -1,3 +1,6 @@
+<p align>
+  <img src = "https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=C101&descAlign=59&section=header">
+
 1.C-101
 
 이 저장소는 C 언어 학습을 위한 실습 코드와 프로젝트를 날짜별로 정리한 기록입니다. 기초 문법부터 프로젝트 구현까지의 과정을 포함하고 있습니다.
