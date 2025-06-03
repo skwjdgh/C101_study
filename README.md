@@ -53,7 +53,7 @@
 ## 🛠️ 개발 환경
 
 - **OS**: Windows 11  
-- **Tool**: 
+- **Tool**: Visual Studio 2022
 
 ### 🧩 설치 및 환경 설정
 
