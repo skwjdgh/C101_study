@@ -1,11 +1,27 @@
-<p align>
-  <img src = "https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=C101&descAlign=59&section=header">
 
-## C-101
+<h1 align="center">
+  
+  <a href="https://github.com/skwjdgh">
+    <img align="center" src="https://img.shields.io/badge/goto-Main-green.svg" />
+  </a>
+
+  <a href="https://github.com/skwjdgh/Back">
+    <img align="center" src="https://img.shields.io/badge/goto-Back-green.svg" />
+  </a>
+  
+</h1>
+
+
+<p align="center">
+  <img align="center" src = "https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=C101&descAlign=59&section=header">
+
+## 🗂 문서 개요
 
 이 저장소는 C 언어 학습을 위한 실습 코드와 프로젝트를 날짜별로 정리한 기록입니다. 기초 문법부터 프로젝트 구현까지의 과정을 포함하고 있습니다.
+
 ---
-## 학습 내용
+
+### ✅ 주요 학습 내용
 
 250324Cclass  
 - 변수 선언, printf 사용법, 기본적인 C 문법 구조
@@ -34,5 +50,17 @@
 - 변수 주소 참조 및 포인터 활용 기초
 
 ---
-##  👨‍💻상위REPO로 돌아가기
-[![BACK](https://img.shields.io/badge/BACK-181717?style=plastic&logo=github&logoColor=white)](https://github.com/skwjdgh/Back)
+## 📦 문서 구조
+
+```
+```
+####  🗃️ 하위 브런치로 이동
+
+---
+###  👨‍💻상단으로 돌아가기
+<h1 align="center">
+        <a href="https://github.com/skwjdgh/C101_study">
+    <img align="center" src="https://img.shields.io/badge/backto-Top-green.svg" />
+  </a>
+</h1>
+
