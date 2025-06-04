@@ -8,6 +8,9 @@
   <a href="https://github.com/skwjdgh/Back">
     <img align="center" src="https://img.shields.io/badge/goto-Back-green.svg" />
   </a>
+    <a href="https://github.com/skwjdgh/C101_study">
+    <img align="center" src="https://img.shields.io/badge/goto-C-green.svg" />
+  </a>
   
 </h1>
 
@@ -50,23 +53,6 @@
 - 변수 주소 참조 및 포인터 활용 기초
 ---
 
-## 🛠️ 개발 환경
-
-- **OS**: Windows 11  
-- **Tool**: Visual Studio 2022
-
-### 🧩 설치 및 환경 설정
-
-
----
-
-## 📦 문서 구조
-
-```
-```
-####  🗃️ 하위 브런치로 이동
-
----
 ###  👨‍💻상단으로 돌아가기
 <h1 align="center">
         <a href="https://github.com/skwjdgh/C101_study">
