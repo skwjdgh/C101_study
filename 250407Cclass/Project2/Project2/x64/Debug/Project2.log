@@ -1,3 +1,0 @@
-﻿  example.c
-C:\Users\AISW\Desktop\C언어 실습\250407Cclass\Project2\example.c(46,12): warning C4013: 'strlen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  Project2.vcxproj -> C:\Users\AISW\Desktop\C언어 실습\250407Cclass\Project2\x64\Debug\Project2.exe
