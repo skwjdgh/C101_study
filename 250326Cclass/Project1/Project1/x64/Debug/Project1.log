@@ -1,3 +1,0 @@
-﻿  7.control_test.cpp
-C:\Users\AISW\Desktop\C언어 실습\250326Cclass\Project1\7.control_test.cpp(4,6): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
-  Project1.vcxproj -> C:\Users\AISW\Desktop\C언어 실습\250326Cclass\Project1\x64\Debug\Project1.exe
